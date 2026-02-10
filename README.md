@@ -33,7 +33,7 @@ database_dict = {
 Run the script with Python:
 
 ```
-python path_updater.py
+python movearr.py
 ```
 
 As the script runs, it will print out old paths and their corresponding new paths. If a new path is not the same as the old path, it will update the old path to the new path in the database and print the new path.
